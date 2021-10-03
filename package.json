@@ -10,20 +10,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "atob": "^2.1.2",
-    "canvacord": "^5.2.3",
     "discord.js": "^13.1.0",
     "express": "^4.17.1",
-    "figlet": "^1.5.0",
-    "fs": "^0.0.2",
-    "glob": "^7.2.0",
-    "ms": "^2.1.2",
-    "node-fetch": "^2.6.1",
-    "novelcovid": "^3.0.0",
-    "old-wio.db": "^4.0.10",
-    "quick.db": "^7.1.1",
-    "util": "^0.12.3",
-    "weather-js": "^2.0.0"
+    "glob": "^7.2.0"
   },
   "engines": {
     "node": "12.x"
